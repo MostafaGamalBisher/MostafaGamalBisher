@@ -40,7 +40,25 @@ Git • VSCode • Python • WordPress
 > ⭐ **This section updates every 24 hours — based on your public GitHub repositories**
 
 <!-- AUTO-PROJECTS:START -->
-Loading latest projects...
+
+### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
+**Language:** Python  ·  🌟 0  
+My personal profile
+
+---
+
+### 🔹 [Currency-Converter](https://github.com/MostafaGamalBisher/Currency-Converter)
+**Language:** Python  ·  🌟 0  
+No description provided.
+
+---
+
+### 🔹 [weatherapp](https://github.com/MostafaGamalBisher/weatherapp)
+**Language:** Python  ·  🌟 0  
+No description provided.
+
+---
+
 <!-- AUTO-PROJECTS:END -->
 
 ---
