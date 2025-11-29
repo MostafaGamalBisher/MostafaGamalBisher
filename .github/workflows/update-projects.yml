@@ -16,7 +16,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # important: ensures up-to-date repo
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,7 +27,7 @@ jobs:
         run: pip install requests
 
       - name: Run updater script
-        run: python scripts/update_projects.py
+        run: python ${{ github.workspace }}/scripts/update_projects.py
 
       - name: Commit and push changes
         run: |
