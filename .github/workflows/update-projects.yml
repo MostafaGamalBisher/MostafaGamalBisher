@@ -1,8 +1,6 @@
 name: Update Projects Automatically
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,8 +22,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Debug workspace
+        run: |
+          echo "Workspace path:"
+          echo "${{ github.workspace }}"
+          echo "Listing root directory:"
+          ls -R "${{ github.workspace }}"
+
       - name: Run updater script
-        run: python ${{ github.workspace }}/scripts/update_projects.py
+        run: python "${{ github.workspace }}/scripts/update_projects.py"
 
       - name: Commit and push changes
         run: |
