@@ -35,7 +35,7 @@ Git • VSCode • Python • WordPress
 
 ---
 
-# 🧩 My Projects (Updated Automatically)
+# 🧩 My Projects 
 
 > ⭐ **This section updates every 24 hours — based on my public GitHub repositories**
 
