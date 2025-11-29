@@ -24,9 +24,9 @@ jobs:
 
       - name: Debug workspace
         run: |
-          echo "Workspace path:"
+          echo "== WORKSPACE PATH =="
           echo "${{ github.workspace }}"
-          echo "Listing root directory:"
+          echo "== LISTING DIRECTORY =="
           ls -R "${{ github.workspace }}"
 
       - name: Run updater script
