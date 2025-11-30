@@ -41,6 +41,12 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
+### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
+**Language:** Python  ·  🌟 0  
+No description provided.
+
+---
+
 ### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
 **Language:** Python  ·  🌟 0  
 My personal profile
