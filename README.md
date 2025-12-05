@@ -41,9 +41,15 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
-### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
+### 🔹 [Tic-Tac-Toe-X-O-Game](https://github.com/MostafaGamalBisher/Tic-Tac-Toe-X-O-Game)
 **Language:** Python  ·  🌟 0  
 No description provided.
+
+---
+
+### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
+**Language:** Python  ·  🌟 0  
+A simple To-Do List App I made during my very first days coding...
 
 ---
 
