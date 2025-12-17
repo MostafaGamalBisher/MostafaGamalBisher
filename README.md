@@ -41,21 +41,27 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
+### 🔹 [Expenses-Tracker](https://github.com/MostafaGamalBisher/Expenses-Tracker)
+**Language:** Python  ·  🌟 0  
+Expenses Tracker App I made during my first days coding using Python Tkinter CTK...
+
+---
+
 ### 🔹 [Tic-Tac-Toe-X-O-Game](https://github.com/MostafaGamalBisher/Tic-Tac-Toe-X-O-Game)
 **Language:** Python  ·  🌟 0  
 No description provided.
 
 ---
 
-### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
-**Language:** Python  ·  🌟 0  
-A simple To-Do List App I made during my very first days coding...
-
----
-
 ### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
 **Language:** Python  ·  🌟 0  
 My personal profile
+
+---
+
+### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
+**Language:** Python  ·  🌟 0  
+A simple To-Do List App I made during my very first days coding...
 
 ---
 
