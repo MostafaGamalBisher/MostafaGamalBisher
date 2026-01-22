@@ -41,21 +41,21 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
-### 🔹 [time-tracking-dashboard](https://github.com/MostafaGamalBisher/time-tracking-dashboard)
+### 🔹 [Personal-Portfolio-Dashboard](https://github.com/MostafaGamalBisher/Personal-Portfolio-Dashboard)
 **Language:** SCSS  ·  🌟 0  
 No description provided.
-
----
-
-### 🔹 [luxury-profile-card](https://github.com/MostafaGamalBisher/luxury-profile-card)
-**Language:** CSS  ·  🌟 0  
-A minimal luxury profile card built with pure HTML & CSS.
 
 ---
 
 ### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
 **Language:** Python  ·  🌟 0  
 My personal profile
+
+---
+
+### 🔹 [luxury-profile-card](https://github.com/MostafaGamalBisher/luxury-profile-card)
+**Language:** CSS  ·  🌟 0  
+A minimal luxury profile card built with pure HTML & CSS.
 
 ---
 
