@@ -41,21 +41,27 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
+### 🔹 [time-tracking-dashboard](https://github.com/MostafaGamalBisher/time-tracking-dashboard)
+**Language:** SCSS  ·  🌟 0  
+No description provided.
+
+---
+
 ### 🔹 [luxury-profile-card](https://github.com/MostafaGamalBisher/luxury-profile-card)
 **Language:** CSS  ·  🌟 0  
 A minimal luxury profile card built with pure HTML & CSS.
 
 ---
 
-### 🔹 [Expenses-Tracker](https://github.com/MostafaGamalBisher/Expenses-Tracker)
-**Language:** Python  ·  🌟 0  
-Expenses Tracker App I made during my first days coding using Python Tkinter CTK...
-
----
-
 ### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
 **Language:** Python  ·  🌟 0  
 My personal profile
+
+---
+
+### 🔹 [Expenses-Tracker](https://github.com/MostafaGamalBisher/Expenses-Tracker)
+**Language:** Python  ·  🌟 0  
+Expenses Tracker App I made during my first days coding using Python Tkinter CTK...
 
 ---
 
@@ -68,12 +74,6 @@ No description provided.
 ### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
 **Language:** Python  ·  🌟 0  
 A simple To-Do List App I made during my very first days coding...
-
----
-
-### 🔹 [Currency-Converter](https://github.com/MostafaGamalBisher/Currency-Converter)
-**Language:** Python  ·  🌟 0  
-No description provided.
 
 ---
 
