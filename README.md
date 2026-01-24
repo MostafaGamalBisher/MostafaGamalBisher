@@ -42,20 +42,26 @@ Git • VSCode • Python • WordPress
 <!-- AUTO-PROJECTS:START -->
 
 ### 🔹 [Personal-Portfolio-Dashboard](https://github.com/MostafaGamalBisher/Personal-Portfolio-Dashboard)
-**Language:** SCSS  ·  🌟 0  
-No description provided.
+**Language:** HTML  ·  🌟 0  
+Personal portfolio dashboard built with HTML, CSS, and SCSS, focusing on clean structure, responsive layout, and organized styling.
 
 ---
 
-### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
-**Language:** Python  ·  🌟 0  
-My personal profile
+### 🔹 [Qurantab-Landing-Page](https://github.com/MostafaGamalBisher/Qurantab-Landing-Page)
+**Language:** HTML  ·  🌟 0  
+A responsive, pixel-perfect landing page built with HTML and CSS, focused on clean layout and accurate UI implementation.
 
 ---
 
 ### 🔹 [luxury-profile-card](https://github.com/MostafaGamalBisher/luxury-profile-card)
 **Language:** CSS  ·  🌟 0  
 A minimal luxury profile card built with pure HTML & CSS.
+
+---
+
+### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
+**Language:** Python  ·  🌟 0  
+My personal profile
 
 ---
 
@@ -68,12 +74,6 @@ Expenses Tracker App I made during my first days coding using Python Tkinter CTK
 ### 🔹 [Tic-Tac-Toe-X-O-Game](https://github.com/MostafaGamalBisher/Tic-Tac-Toe-X-O-Game)
 **Language:** Python  ·  🌟 0  
 No description provided.
-
----
-
-### 🔹 [Todolist](https://github.com/MostafaGamalBisher/Todolist)
-**Language:** Python  ·  🌟 0  
-A simple To-Do List App I made during my very first days coding...
 
 ---
 
