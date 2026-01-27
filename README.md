@@ -41,6 +41,18 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
+### 🔹 [Earth-Clock](https://github.com/MostafaGamalBisher/Earth-Clock)
+**Language:** CSS  ·  🌟 0  
+Educational CSS project demonstrating circular layout using rotate and translate, with Earth as a visual reference.
+
+---
+
+### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
+**Language:** Python  ·  🌟 0  
+My personal profile
+
+---
+
 ### 🔹 [Personal-Portfolio-Dashboard](https://github.com/MostafaGamalBisher/Personal-Portfolio-Dashboard)
 **Language:** HTML  ·  🌟 0  
 Personal portfolio dashboard built with HTML, CSS, and SCSS, focusing on clean structure, responsive layout, and organized styling.
@@ -59,21 +71,9 @@ A minimal luxury profile card built with pure HTML & CSS.
 
 ---
 
-### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
-**Language:** Python  ·  🌟 0  
-My personal profile
-
----
-
 ### 🔹 [Expenses-Tracker](https://github.com/MostafaGamalBisher/Expenses-Tracker)
 **Language:** Python  ·  🌟 0  
 Expenses Tracker App I made during my first days coding using Python Tkinter CTK...
-
----
-
-### 🔹 [Tic-Tac-Toe-X-O-Game](https://github.com/MostafaGamalBisher/Tic-Tac-Toe-X-O-Game)
-**Language:** Python  ·  🌟 0  
-No description provided.
 
 ---
 
