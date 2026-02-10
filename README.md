@@ -41,6 +41,12 @@ Git • VSCode • Python • WordPress
 
 <!-- AUTO-PROJECTS:START -->
 
+### 🔹 [LaslesVPN-landingpage](https://github.com/MostafaGamalBisher/LaslesVPN-landingpage)
+**Language:** CSS  ·  🌟 0  
+No description provided.
+
+---
+
 ### 🔹 [Earth-Clock](https://github.com/MostafaGamalBisher/Earth-Clock)
 **Language:** CSS  ·  🌟 0  
 Educational CSS project demonstrating circular layout using rotate and translate, with Earth as a visual reference.
@@ -68,12 +74,6 @@ A responsive, pixel-perfect landing page built with HTML and CSS, focused on cle
 ### 🔹 [luxury-profile-card](https://github.com/MostafaGamalBisher/luxury-profile-card)
 **Language:** CSS  ·  🌟 0  
 A minimal luxury profile card built with pure HTML & CSS.
-
----
-
-### 🔹 [Expenses-Tracker](https://github.com/MostafaGamalBisher/Expenses-Tracker)
-**Language:** Python  ·  🌟 0  
-Expenses Tracker App I made during my first days coding using Python Tkinter CTK...
 
 ---
 
