@@ -43,19 +43,19 @@ Git • VSCode • Python • WordPress
 
 ### 🔹 [LaslesVPN-landingpage](https://github.com/MostafaGamalBisher/LaslesVPN-landingpage)
 **Language:** CSS  ·  🌟 0  
-No description provided.
-
----
-
-### 🔹 [Earth-Clock](https://github.com/MostafaGamalBisher/Earth-Clock)
-**Language:** CSS  ·  🌟 0  
-Educational CSS project demonstrating circular layout using rotate and translate, with Earth as a visual reference.
+🌐 Fully responsive landing page built from Figma design using semantic HTML5 and modular SCSS.  ✨ Features: - CSS-only slider with radio inputs - Mobile-optimized layouts - Smooth animations & transitions - No JavaScript required  🎯 Built to demonstrate: Clean code architecture, responsive design patterns, and creative CSS solutions.
 
 ---
 
 ### 🔹 [MostafaGamalBisher](https://github.com/MostafaGamalBisher/MostafaGamalBisher)
 **Language:** Python  ·  🌟 0  
 My personal profile
+
+---
+
+### 🔹 [Earth-Clock](https://github.com/MostafaGamalBisher/Earth-Clock)
+**Language:** CSS  ·  🌟 0  
+Educational CSS project demonstrating circular layout using rotate and translate, with Earth as a visual reference.
 
 ---
 
