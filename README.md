@@ -15,7 +15,7 @@
 I'm a passionate **Front-End Developer** with a background in **Accounting**, blending analytical thinking with modern technology to build useful, business-driven digital solutions.
 
 🔹 **Current Role:** Accountant at *Emaar Al-Shaati CO.*  
-🔹 **Focus:** JavaScript, React, Next.js, Python  
+🔹 **Focus:** JavaScript, React, Node.js, Python  
 🔹 **Goal:** Build systems where finance meets tech.
 
 <br clear="right"/>
