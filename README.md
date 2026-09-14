@@ -84,22 +84,7 @@ A bilingual English/Arabic fragrance storefront, built incrementally with an emp
 
 This is an active learning project and is deliberately labelled as incomplete: no database, authentication, cart, or checkout yet.
 
-[**Source**](https://github.com/MostafaGamalBisher/ScentHub)
-
----
-
-## GitHub activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MostafaGamalBisher&show_icons=true&hide_border=true&theme=github_dark&hide_title=true">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MostafaGamalBisher&show_icons=true&hide_border=true&hide_title=true" height="150">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGamalBisher&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaGamalBisher&layout=compact&hide_border=true&langs_count=6" height="150">
-  </picture>
-</p>
+[**Source**](https://github.com/MostafaGamalBisher/scenthub)
 
 ---
 
@@ -111,4 +96,4 @@ Form state and schema validation (React Hook Form, Zod), client state boundaries
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mostafagamalbisher-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafagamalbisher)
 
-Based in Saudi Arabia (GMT+3). Open to remote frontend and full-stack opportunities.
+Egyptian, currently based in Saudi Arabia (GMT+3). Open to remote frontend and full-stack opportunities.
